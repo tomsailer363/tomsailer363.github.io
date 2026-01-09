@@ -1,0 +1,44 @@
+---
+title: "Tom Sailer"
+---
+
+<div style="display: flex; align-items: center; gap: 2rem;">
+
+<div>
+<img src="images/profile.jpeg" width="220px" style="border-radius: 50%;">
+</div>
+
+<div>
+
+### Economics Student
+
+I am interested in the intersection between economics and politics, especially using econometric methods to answer relevant questions.   
+
+</div>
+</div>
+
+---
+
+## Qualifications
+
+- BSc Environmental Science with focus on environmental economics (Leuphana University Lüneburg,2021)- 1.9
+- BAr Political Science with focus on international politics (Leuphana University Lüneburg, 2021)- 1.9
+- BSc Economics with focus on statistics and maths (University of Bonn, expected 2025)-1.3(expected)
+- Tools: R, Python, Matlab, Stata
+
+---
+
+## Research Interests
+
+- Applied microeconometrics
+- Environmental Economics 
+- Game theory 
+
+
+---
+
+## Curriculum Vitae
+
+[Download CV (PDF)](cv.pdf)
+
+<embed src="cv.pdf" width="100%" height="900px">
